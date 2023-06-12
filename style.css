@@ -78,4 +78,13 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
-/* https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=fa5f5752dc291d592e3300e984e25f0b&units=metric */
+.weather{
+    display: none;
+}
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
