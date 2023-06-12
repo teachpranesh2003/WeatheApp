@@ -1,4 +1,4 @@
 # WeatherApp
 
-Tools : HTML CSS JS 
+Tools : HTML CSS JS
 API Sites : https://openweathermap.org/
